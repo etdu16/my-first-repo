@@ -1,2 +1,2 @@
-#hi
-this is read me
+hi
+i am experimenting with github because i am new
